@@ -1,9 +1,10 @@
 // Faça um programa (FUP) para dividir 2 números 
-let num = 10
-const num2 = 2
+// O prompt serve para batata gbklngjkpbhogphbngjçdwawij
+let num = prompt("Digite um número")
+const num2 = prompt("Digite outro número")
 //                  10/2
 const resultado = num/num2
 
-console.log('Dividindo dois numeros:')
-console.log('Dividindo '+num+' por '+num2)
-console.log(resultado)
+alert('Dividindo dois números:')
+alert('Dividindo '+num+' por '+num2)
+alert(resultado)
